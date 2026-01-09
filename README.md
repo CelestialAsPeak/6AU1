@@ -34,17 +34,15 @@
 
   关于Android如何适配py问题,作者正在寻找解决方法,包括用web交互，Ubuntu等方法
 
-  但作者还没去试。
-
-  但肯定是会适配Android的。
+  但作者还没去试。但肯定是会适配Android的。
 
 - #### Linux / WebOnline / Html
 
-  挖坑中...
+  暂无计划
 
 - #### IOS / HarmonyOS NEXT / macOS
 
-  你知道这是不可能的。（笑）
+  暂无计划
 
   
 
