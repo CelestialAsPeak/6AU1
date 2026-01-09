@@ -36,11 +36,11 @@
 
   但肯定是会适配Android的。
 
-- #### Linux/在网站上直接游玩
+- #### Linux / WebOnline / Html
 
   挖坑中...
 
-- #### IOS/HarmonyosNEXT/macOS
+- #### IOS / HarmonyosNEXT / macOS
 
   你知道这是不可能的。（笑）
 
@@ -65,4 +65,6 @@
 
 ## 其它
 
-此项目为作者第一次编写这种项目，可能会有做的不好的地方
+此项目为作者第一次编写这种项目，可能会有做的不好的地方,作者会持续改进。
+
+此项目所用素材均为作者[@CelestialAsPeak](https://github.com/CelestialAsPeak)版权所有。
