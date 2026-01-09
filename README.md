@@ -40,7 +40,7 @@
 
   挖坑中...
 
-- #### IOS / HarmonyosNEXT / macOS
+- #### IOS / HarmonyOS NEXT / macOS
 
   你知道这是不可能的。（笑）
 
