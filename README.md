@@ -73,6 +73,4 @@
 
 ## 其它
 
-此项目为作者第一次编写这种项目，可能会有做的不好的地方,作者会持续改进。
-
 此项目所用素材均为作者[@CelestialAsPeak](https://github.com/CelestialAsPeak)版权所有。
